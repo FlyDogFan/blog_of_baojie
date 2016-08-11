@@ -1,0 +1,15 @@
+{"title": "语义噪声",
+    "description": "一顿写",
+    "author": "鲍捷",
+
+    "plugins": [
+        "disqus"
+    ],
+    "pluginsConfig": {
+        "disqus": {
+        "shortName": "xpgeng"
+    }
+  }
+}
+
+
