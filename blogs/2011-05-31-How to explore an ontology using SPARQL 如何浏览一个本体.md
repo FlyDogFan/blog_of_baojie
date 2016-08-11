@@ -2,7 +2,8 @@ How to explore an ontology using SPARQL 如何浏览一个本体
 ---
     
 > Categories: 编程, 语义网  
-> Time: 2011-05-31
+> Time: 2011-05-31  
+> Original url: <http://baojie.org/blog/2011/05/31/explore-an-ontology/>
     
 This article gives some typical SPARQL queries I used for getting familiar with an ontology which is only accessible by a querying endpoint.1. Classes usedSELECT count(?x) ?type
 WHERE{
