@@ -83,7 +83,7 @@
 - [2011-12-04-Grandma Gone Surfing [2008]](blogs/2011-12-04-Grandma Gone Surfing [2008].md)
 - [2011-11-29-想做这样一个在线历史地图 [2008]](blogs/2011-11-29-想做这样一个在线历史地图 [2008].md)
 - [2011-11-27-Watson和SIRI](blogs/2011-11-27-Watson和SIRI.md)
-- [2011-11-25-OWL or OLD? [2008] P.S. OWL2的一些检讨](blogs/2011-11-25-OWL or OLD? [2008] P.S. OWL2的一些检讨.md)
+- [2011-11-25-OWL or OLD? [2008] P.S. OWL2的一些检讨](blogs/2011-11-25-OWL or OLD.md)
 - [2011-11-24-Towards Webtop [2008]](blogs/2011-11-24-Towards Webtop [2008].md)
 - [2011-11-24-Captcha, Turing Test, and Semantic Web [2008]](blogs/2011-11-24-Captcha, Turing Test, and Semantic Web [2008].md)
 - [2011-11-24-Nova Spivack谈语义网（2008）Part II](blogs/2011-11-24-Nova Spivack谈语义网（2008）Part II.md)
