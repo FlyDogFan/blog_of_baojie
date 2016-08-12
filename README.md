@@ -7,7 +7,5 @@
     - Email: baojie@memect.co
     - 微博: [西瓜大丸子汤](http://weibo.com/xiguadawanzitang?refer_flag=1001030102_&is_all=1)
 
-
-## 其他
 - 整理 by [耿新鹏](http://github.com/xpgeng)
     - Email: xpgeng.me@gmail.com
